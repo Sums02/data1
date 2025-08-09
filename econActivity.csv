@@ -1,205 +1,199 @@
-code,LA,empl,count,edu,eduCount,,,,
-E09000001,City of London,Employed Part-time,885,No Qualifications,529,,,,
-E09000001,City of London,Employed Full-time,4466,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",223,,,,
-E09000001,City of London,Unemployed,327,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",392,,,,
-E09000001,City of London,Retired,993,Apprenticeship,80,,,,
-E09000001,City of London,Student,720,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",708,,,,
-E09000001,City of London,"Economically Inactive: Carer, Sick, Other",613,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",6074,,,,
-E09000002,Barking and Dagenham,Employed Part-time,30887,No Qualifications,36796,,,,
-E09000002,Barking and Dagenham,Employed Full-time,63704,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",16752,,,,
-E09000002,Barking and Dagenham,Unemployed,9076,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",20367,,,,
-E09000002,Barking and Dagenham,Retired,16966,Apprenticeship,6260,,,,
-E09000002,Barking and Dagenham,Student,12684,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",21819,,,,
-E09000002,Barking and Dagenham,"Economically Inactive: Carer, Sick, Other",28429,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",59752,,,,
-E09000003,Barnet,Employed Part-time,59681,No Qualifications,47762,,,,
-E09000003,Barnet,Employed Full-time,126495,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",21302,,,,
-E09000003,Barnet,Unemployed,13585,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",30687,,,,
-E09000003,Barnet,Retired,46200,Apprenticeship,9630,,,,
-E09000003,Barnet,Student,21618,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",38541,,,,
-E09000003,Barnet,"Economically Inactive: Carer, Sick, Other",41776,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",161432,,,,
-E09000004,Bexley,Employed Part-time,32581,No Qualifications,35582,,,,
-E09000004,Bexley,Employed Full-time,85402,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",21413,,,,
-E09000004,Bexley,Unemployed,7363,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",28535,,,,
-E09000004,Bexley,Retired,39111,Apprenticeship,10225,,,,
-E09000004,Bexley,Student,9998,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",32511,,,,
-E09000004,Bexley,"Economically Inactive: Carer, Sick, Other",21372,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",67559,,,,
-E09000005,Brent,Employed Part-time,49521,No Qualifications,59770,,,,
-E09000005,Brent,Employed Full-time,111477,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",24296,,,,
-E09000005,Brent,Unemployed,14984,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",26148,,,,
-E09000005,Brent,Retired,33300,Apprenticeship,9529,,,,
-E09000005,Brent,Student,22026,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",34338,,,,
-E09000005,Brent,"Economically Inactive: Carer, Sick, Other",43834,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",121062,,,,
-E09000006,Bromley,Employed Part-time,44067,No Qualifications,36581,,,,
-E09000006,Bromley,Employed Full-time,118055,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",23030,,,,
-E09000006,Bromley,Unemployed,8968,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",35258,,,,
-E09000006,Bromley,Retired,55371,Apprenticeship,10559,,,,
-E09000006,Bromley,Student,12008,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",39420,,,,
-E09000006,Bromley,"Economically Inactive: Carer, Sick, Other",26619,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",120240,,,,
-E09000007,Camden,Employed Part-time,27005,No Qualifications,20948,,,,
-E09000007,Camden,Employed Full-time,75506,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",8996,,,,
-E09000007,Camden,Unemployed,9013,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",12776,,,,
-E09000007,Camden,Retired,19146,Apprenticeship,3402,,,,
-E09000007,Camden,Student,22035,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",25154,,,,
-E09000007,Camden,"Economically Inactive: Carer, Sick, Other",25203,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",106633,,,,
-E09000008,Croydon,Employed Part-time,55567,No Qualifications,49877,,,,
-E09000008,Croydon,Employed Full-time,133838,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",28370,,,,
-E09000008,Croydon,Unemployed,14731,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",38241,,,,
-E09000008,Croydon,Retired,48038,Apprenticeship,11786,,,,
-E09000008,Croydon,Student,18293,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",45535,,,,
-E09000008,Croydon,"Economically Inactive: Carer, Sick, Other",39929,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",136588,,,,
-E09000009,Ealing,Employed Part-time,50994,No Qualifications,52925,,,,
-E09000009,Ealing,Employed Full-time,124032,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",23821,,,,
-E09000009,Ealing,Unemployed,15265,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",27461,,,,
-E09000009,Ealing,Retired,37988,Apprenticeship,10012,,,,
-E09000009,Ealing,Student,21886,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",37920,,,,
-E09000009,Ealing,"Economically Inactive: Carer, Sick, Other",45206,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",143232,,,,
-E09000010,Enfield,Employed Part-time,50819,No Qualifications,57813,,,,
-E09000010,Enfield,Employed Full-time,93045,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",24151,,,,
-E09000010,Enfield,Unemployed,12151,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",29005,,,,
-E09000010,Enfield,Retired,40133,Apprenticeship,10055,,,,
-E09000010,Enfield,Student,18199,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",34476,,,,
-E09000010,Enfield,"Economically Inactive: Carer, Sick, Other",42835,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",101682,,,,
-E09000011,Greenwich,Employed Part-time,37838,No Qualifications,38319,,,,
-E09000011,Greenwich,Employed Full-time,105097,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",18349,,,,
-E09000011,Greenwich,Unemployed,12267,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",23747,,,,
-E09000011,Greenwich,Retired,27139,Apprenticeship,7937,,,,
-E09000011,Greenwich,Student,14990,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",30154,,,,
-E09000011,Greenwich,"Economically Inactive: Carer, Sick, Other",32418,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",111242,,,,
-E09000012,Hackney,Employed Part-time,39474,No Qualifications,35043,,,,
-E09000012,Hackney,Employed Full-time,94834,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",12782,,,,
-E09000012,Hackney,Unemployed,11459,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",17449,,,,
-E09000012,Hackney,Retired,16378,Apprenticeship,4938,,,,
-E09000012,Hackney,Student,16079,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",24171,,,,
-E09000012,Hackney,"Economically Inactive: Carer, Sick, Other",31242,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",115085,,,,
-E09000013,Hammersmith and Fulham,Employed Part-time,22608,No Qualifications,18332,,,,
-E09000013,Hammersmith and Fulham,Employed Full-time,75490,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",7892,,,,
-E09000013,Hammersmith and Fulham,Unemployed,7674,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",11387,,,,
-E09000013,Hammersmith and Fulham,Retired,15466,Apprenticeship,3534,,,,
-E09000013,Hammersmith and Fulham,Student,13190,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",20165,,,,
-E09000013,Hammersmith and Fulham,"Economically Inactive: Carer, Sick, Other",20204,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",93316,,,,
-E09000014,Haringey,Employed Part-time,43466,No Qualifications,39921,,,,
-E09000014,Haringey,Employed Full-time,90915,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",14732,,,,
-E09000014,Haringey,Unemployed,11947,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",18392,,,,
-E09000014,Haringey,Retired,23057,Apprenticeship,6781,,,,
-E09000014,Haringey,Student,14742,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",25260,,,,
-E09000014,Haringey,"Economically Inactive: Carer, Sick, Other",31873,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",110914,,,,
-E09000015,Harrow,Employed Part-time,36539,No Qualifications,36454,,,,
-E09000015,Harrow,Employed Full-time,88500,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",17150,,,,
-E09000015,Harrow,Unemployed,8503,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",21857,,,,
-E09000015,Harrow,Retired,34632,Apprenticeship,6656,,,,
-E09000015,Harrow,Student,14225,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",26422,,,,
-E09000015,Harrow,"Economically Inactive: Carer, Sick, Other",27224,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",101081,,,,
-E09000016,Havering,Employed Part-time,35210,No Qualifications,41947,,,,
-E09000016,Havering,Employed Full-time,89571,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",23453,,,,
-E09000016,Havering,Unemployed,7651,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",31228,,,,
-E09000016,Havering,Retired,43979,Apprenticeship,10778,,,,
-E09000016,Havering,Student,9680,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",34125,,,,
-E09000016,Havering,"Economically Inactive: Carer, Sick, Other",23639,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",68199,,,,
-E09000017,Hillingdon,Employed Part-time,40517,No Qualifications,43906,,,,
-E09000017,Hillingdon,Employed Full-time,102289,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",23872,,,,
-E09000017,Hillingdon,Unemployed,11632,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",28514,,,,
-E09000017,Hillingdon,Retired,37565,Apprenticeship,10298,,,,
-E09000017,Hillingdon,Student,17415,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",35836,,,,
-E09000017,Hillingdon,"Economically Inactive: Carer, Sick, Other",32461,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",99452,,,,
-E09000018,Hounslow,Employed Part-time,40315,No Qualifications,42630,,,,
-E09000018,Hounslow,Employed Full-time,98479,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",21674,,,,
-E09000018,Hounslow,Unemployed,11810,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",23390,,,,
-E09000018,Hounslow,Retired,29510,Apprenticeship,8090,,,,
-E09000018,Hounslow,Student,14360,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",28046,,,,
-E09000018,Hounslow,"Economically Inactive: Carer, Sick, Other",34201,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",104851,,,,
-E09000019,Islington,Employed Part-time,26896,No Qualifications,25257,,,,
-E09000019,Islington,Employed Full-time,88075,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",10273,,,,
-E09000019,Islington,Unemployed,9943,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",13146,,,,
-E09000019,Islington,Retired,16858,Apprenticeship,4212,,,,
-E09000019,Islington,Student,15859,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",22337,,,,
-E09000019,Islington,"Economically Inactive: Carer, Sick, Other",25996,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",108401,,,,
-E09000020,Kensington and Chelsea,Employed Part-time,17605,No Qualifications,13971,,,,
-E09000020,Kensington and Chelsea,Employed Full-time,51835,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",5446,,,,
-E09000020,Kensington and Chelsea,Unemployed,5632,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",8803,,,,
-E09000020,Kensington and Chelsea,Retired,16078,Apprenticeship,2378,,,,
-E09000020,Kensington and Chelsea,Student,12680,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",15439,,,,
-E09000020,Kensington and Chelsea,"Economically Inactive: Carer, Sick, Other",19259,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",77052,,,,
-E09000021,Kingston upon Thames,Employed Part-time,23635,No Qualifications,16128,,,,
-E09000021,Kingston upon Thames,Employed Full-time,60513,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",8744,,,,
-E09000021,Kingston upon Thames,Unemployed,5237,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",13319,,,,
-E09000021,Kingston upon Thames,Retired,21813,Apprenticeship,4324,,,,
-E09000021,Kingston upon Thames,Student,10088,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",19766,,,,
-E09000021,Kingston upon Thames,"Economically Inactive: Carer, Sick, Other",14181,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",73185,,,,
-E09000022,Lambeth,Employed Part-time,42623,No Qualifications,35185,,,,
-E09000022,Lambeth,Employed Full-time,140194,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",16252,,,,
-E09000022,Lambeth,Unemployed,14324,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",21025,,,,
-E09000022,Lambeth,Retired,22302,Apprenticeship,6973,,,,
-E09000022,Lambeth,Student,17750,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",31935,,,,
-E09000022,Lambeth,"Economically Inactive: Carer, Sick, Other",31749,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",157575,,,,
-E09000023,Lewisham,Employed Part-time,44175,No Qualifications,35447,,,,
-E09000023,Lewisham,Employed Full-time,111541,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",17738,,,,
-E09000023,Lewisham,Unemployed,13863,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",23426,,,,
-E09000023,Lewisham,Retired,25422,Apprenticeship,7261,,,,
-E09000023,Lewisham,Student,15810,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",31537,,,,
-E09000023,Lewisham,"Economically Inactive: Carer, Sick, Other",31606,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",127001,,,,
-E09000024,Merton,Employed Part-time,30296,No Qualifications,24609,,,,
-E09000024,Merton,Employed Full-time,81769,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",12368,,,,
-E09000024,Merton,Unemployed,6835,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",16510,,,,
-E09000024,Merton,Retired,24084,Apprenticeship,5752,,,,
-E09000024,Merton,"Other: Carer, Sick Ect.",9494,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",21786,,,,
-E09000024,Merton,"Economically Inactive: Carer, Sick, Other",20294,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",91746,,,,
-E09000025,Newham,Employed Part-time,52698,No Qualifications,57151,,,,
-E09000025,Newham,Employed Full-time,110747,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",24931,,,,
-E09000025,Newham,Unemployed,17294,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",28082,,,,
-E09000025,Newham,Retired,21237,Apprenticeship,8619,,,,
-E09000025,Newham,Student,24072,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",35783,,,,
-E09000025,Newham,"Economically Inactive: Carer, Sick, Other",50125,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",121608,,,,
-E09000026,Redbridge,Employed Part-time,44843,No Qualifications,41948,,,,
-E09000026,Redbridge,Employed Full-time,96787,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",20878,,,,
-E09000026,Redbridge,Unemployed,10836,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",27163,,,,
-E09000026,Redbridge,Retired,34086,Apprenticeship,7557,,,,
-E09000026,Redbridge,Student,18312,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",33074,,,,
-E09000026,Redbridge,"Economically Inactive: Carer, Sick, Other",37156,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",111397,,,,
-E09000027,Richmond upon Thames,Employed Part-time,25872,No Qualifications,14163,,,,
-E09000027,Richmond upon Thames,Employed Full-time,71694,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",7779,,,,
-E09000027,Richmond upon Thames,Unemployed,5255,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",14029,,,,
-E09000027,Richmond upon Thames,Retired,28245,Apprenticeship,3743,,,,
-E09000027,Richmond upon Thames,Student,9284,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",18830,,,,
-E09000027,Richmond upon Thames,"Economically Inactive: Carer, Sick, Other",15485,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",97290,,,,
-E09000028,Southwark,Employed Part-time,41970,No Qualifications,35516,,,,
-E09000028,Southwark,Employed Full-time,124981,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",15851,,,,
-E09000028,Southwark,Unemployed,14267,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",20135,,,,
-E09000028,Southwark,Retired,21910,Apprenticeship,6509,,,,
-E09000028,Southwark,Student,21545,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",31574,,,,
-E09000028,Southwark,"Economically Inactive: Carer, Sick, Other",31466,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",146551,,,,
-E09000029,Sutton,Employed Part-time,29205,No Qualifications,25122,,,,
-E09000029,Sutton,Employed Full-time,75021,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",15348,,,,
-E09000029,Sutton,Unemployed,5584,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",21432,,,,
-E09000029,Sutton,Retired,29291,Apprenticeship,7281,,,,
-E09000029,Sutton,Student,8198,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",25866,,,,
-E09000029,Sutton,"Economically Inactive: Carer, Sick, Other",18360,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",70608,,,,
-E09000030,Tower Hamlets,Employed Part-time,40834,No Qualifications,40999,,,,
-E09000030,Tower Hamlets,Employed Full-time,114556,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",17155,,,,
-E09000030,Tower Hamlets,Unemployed,15146,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",21433,,,,
-E09000030,Tower Hamlets,Retired,14714,Apprenticeship,5441,,,,
-E09000030,Tower Hamlets,Student,24195,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",33343,,,,
-E09000030,Tower Hamlets,"Economically Inactive: Carer, Sick, Other",43434,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",134512,,,,
-E09000031,Waltham Forest,Employed Part-time,40746,No Qualifications,40535,,,,
-E09000031,Waltham Forest,Employed Full-time,99628,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",18874,,,,
-E09000031,Waltham Forest,Unemployed,11461,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",23106,,,,
-E09000031,Waltham Forest,Retired,25673,Apprenticeship,7699,,,,
-E09000031,Waltham Forest,Student,13724,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",28770,,,,
-E09000031,Waltham Forest,"Economically Inactive: Carer, Sick, Other",30952,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",103198,,,,
-E09000032,Wandsworth,Employed Part-time,38647,No Qualifications,27202,,,,
-E09000032,Wandsworth,Employed Full-time,151794,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",12759,,,,
-E09000032,Wandsworth,Unemployed,10987,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",18895,,,,
-E09000032,Wandsworth,Retired,26906,Apprenticeship,5578,,,,
-E09000032,Wandsworth,Student,16228,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",31214,,,,
-E09000032,Wandsworth,"Economically Inactive: Carer, Sick, Other",28997,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",177910,,,,
-E09000033,Westminster,Employed Full-time,24638,No Qualifications,22882,,,,
-E09000033,Westminster,Employed Full-time,77107,"Level 1 Ð Basic/Entry Ð 1Ð4 GCSEs (any grade), NVQ1, basic skills",8615,,,,
-E09000033,Westminster,Unemployed,8543,"Level 2 Ð Intermediate Ð 5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",12181,,,,
-E09000033,Westminster,Retired,19329,Apprenticeship,3746,,,,
-E09000033,Westminster,Student,19662,"Level 3 Ð Advanced Ð A levels, NVQ3, BTEC National",22019,,,,
-E09000033,Westminster,"Economically Inactive: Carer, Sick, Other",28191,"Level 4+ Ð Higher/Professional Ð Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",108024,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+code,LA,empl,count,edu,eduCount
+E09000001,City of London,Employed Part-time,885,No Qualifications,529
+E09000001,City of London,Employed Full-time,4466,"Level 1 - Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",223
+E09000001,City of London,Unemployed,327,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",392
+E09000001,City of London,Retired,993,Apprenticeship,80
+E09000001,City of London,Student,720,"Level 3 -Advanced -A levels, NVQ3, BTEC National",708
+E09000001,City of London,"Economically Inactive: Carer, Sick, Other",613,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",6074
+E09000002,Barking and Dagenham,Employed Part-time,30887,No Qualifications,36796
+E09000002,Barking and Dagenham,Employed Full-time,63704,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",16752
+E09000002,Barking and Dagenham,Unemployed,9076,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",20367
+E09000002,Barking and Dagenham,Retired,16966,Apprenticeship,6260
+E09000002,Barking and Dagenham,Student,12684,"Level 3 -Advanced -A levels, NVQ3, BTEC National",21819
+E09000002,Barking and Dagenham,"Economically Inactive: Carer, Sick, Other",28429,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",59752
+E09000003,Barnet,Employed Part-time,59681,No Qualifications,47762
+E09000003,Barnet,Employed Full-time,126495,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",21302
+E09000003,Barnet,Unemployed,13585,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",30687
+E09000003,Barnet,Retired,46200,Apprenticeship,9630
+E09000003,Barnet,Student,21618,"Level 3 -Advanced -A levels, NVQ3, BTEC National",38541
+E09000003,Barnet,"Economically Inactive: Carer, Sick, Other",41776,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",161432
+E09000004,Bexley,Employed Part-time,32581,No Qualifications,35582
+E09000004,Bexley,Employed Full-time,85402,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",21413
+E09000004,Bexley,Unemployed,7363,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",28535
+E09000004,Bexley,Retired,39111,Apprenticeship,10225
+E09000004,Bexley,Student,9998,"Level 3 -Advanced -A levels, NVQ3, BTEC National",32511
+E09000004,Bexley,"Economically Inactive: Carer, Sick, Other",21372,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",67559
+E09000005,Brent,Employed Part-time,49521,No Qualifications,59770
+E09000005,Brent,Employed Full-time,111477,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",24296
+E09000005,Brent,Unemployed,14984,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",26148
+E09000005,Brent,Retired,33300,Apprenticeship,9529
+E09000005,Brent,Student,22026,"Level 3 -Advanced -A levels, NVQ3, BTEC National",34338
+E09000005,Brent,"Economically Inactive: Carer, Sick, Other",43834,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",121062
+E09000006,Bromley,Employed Part-time,44067,No Qualifications,36581
+E09000006,Bromley,Employed Full-time,118055,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",23030
+E09000006,Bromley,Unemployed,8968,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",35258
+E09000006,Bromley,Retired,55371,Apprenticeship,10559
+E09000006,Bromley,Student,12008,"Level 3 -Advanced -A levels, NVQ3, BTEC National",39420
+E09000006,Bromley,"Economically Inactive: Carer, Sick, Other",26619,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",120240
+E09000007,Camden,Employed Part-time,27005,No Qualifications,20948
+E09000007,Camden,Employed Full-time,75506,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",8996
+E09000007,Camden,Unemployed,9013,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",12776
+E09000007,Camden,Retired,19146,Apprenticeship,3402
+E09000007,Camden,Student,22035,"Level 3 -Advanced -A levels, NVQ3, BTEC National",25154
+E09000007,Camden,"Economically Inactive: Carer, Sick, Other",25203,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",106633
+E09000008,Croydon,Employed Part-time,55567,No Qualifications,49877
+E09000008,Croydon,Employed Full-time,133838,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",28370
+E09000008,Croydon,Unemployed,14731,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",38241
+E09000008,Croydon,Retired,48038,Apprenticeship,11786
+E09000008,Croydon,Student,18293,"Level 3 -Advanced -A levels, NVQ3, BTEC National",45535
+E09000008,Croydon,"Economically Inactive: Carer, Sick, Other",39929,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",136588
+E09000009,Ealing,Employed Part-time,50994,No Qualifications,52925
+E09000009,Ealing,Employed Full-time,124032,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",23821
+E09000009,Ealing,Unemployed,15265,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",27461
+E09000009,Ealing,Retired,37988,Apprenticeship,10012
+E09000009,Ealing,Student,21886,"Level 3 -Advanced -A levels, NVQ3, BTEC National",37920
+E09000009,Ealing,"Economically Inactive: Carer, Sick, Other",45206,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",143232
+E09000010,Enfield,Employed Part-time,50819,No Qualifications,57813
+E09000010,Enfield,Employed Full-time,93045,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",24151
+E09000010,Enfield,Unemployed,12151,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",29005
+E09000010,Enfield,Retired,40133,Apprenticeship,10055
+E09000010,Enfield,Student,18199,"Level 3 -Advanced -A levels, NVQ3, BTEC National",34476
+E09000010,Enfield,"Economically Inactive: Carer, Sick, Other",42835,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",101682
+E09000011,Greenwich,Employed Part-time,37838,No Qualifications,38319
+E09000011,Greenwich,Employed Full-time,105097,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",18349
+E09000011,Greenwich,Unemployed,12267,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",23747
+E09000011,Greenwich,Retired,27139,Apprenticeship,7937
+E09000011,Greenwich,Student,14990,"Level 3 -Advanced -A levels, NVQ3, BTEC National",30154
+E09000011,Greenwich,"Economically Inactive: Carer, Sick, Other",32418,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",111242
+E09000012,Hackney,Employed Part-time,39474,No Qualifications,35043
+E09000012,Hackney,Employed Full-time,94834,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",12782
+E09000012,Hackney,Unemployed,11459,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",17449
+E09000012,Hackney,Retired,16378,Apprenticeship,4938
+E09000012,Hackney,Student,16079,"Level 3 -Advanced -A levels, NVQ3, BTEC National",24171
+E09000012,Hackney,"Economically Inactive: Carer, Sick, Other",31242,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",115085
+E09000013,Hammersmith and Fulham,Employed Part-time,22608,No Qualifications,18332
+E09000013,Hammersmith and Fulham,Employed Full-time,75490,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",7892
+E09000013,Hammersmith and Fulham,Unemployed,7674,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",11387
+E09000013,Hammersmith and Fulham,Retired,15466,Apprenticeship,3534
+E09000013,Hammersmith and Fulham,Student,13190,"Level 3 -Advanced -A levels, NVQ3, BTEC National",20165
+E09000013,Hammersmith and Fulham,"Economically Inactive: Carer, Sick, Other",20204,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",93316
+E09000014,Haringey,Employed Part-time,43466,No Qualifications,39921
+E09000014,Haringey,Employed Full-time,90915,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",14732
+E09000014,Haringey,Unemployed,11947,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",18392
+E09000014,Haringey,Retired,23057,Apprenticeship,6781
+E09000014,Haringey,Student,14742,"Level 3 -Advanced -A levels, NVQ3, BTEC National",25260
+E09000014,Haringey,"Economically Inactive: Carer, Sick, Other",31873,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",110914
+E09000015,Harrow,Employed Part-time,36539,No Qualifications,36454
+E09000015,Harrow,Employed Full-time,88500,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",17150
+E09000015,Harrow,Unemployed,8503,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",21857
+E09000015,Harrow,Retired,34632,Apprenticeship,6656
+E09000015,Harrow,Student,14225,"Level 3 -Advanced -A levels, NVQ3, BTEC National",26422
+E09000015,Harrow,"Economically Inactive: Carer, Sick, Other",27224,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",101081
+E09000016,Havering,Employed Part-time,35210,No Qualifications,41947
+E09000016,Havering,Employed Full-time,89571,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",23453
+E09000016,Havering,Unemployed,7651,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",31228
+E09000016,Havering,Retired,43979,Apprenticeship,10778
+E09000016,Havering,Student,9680,"Level 3 -Advanced -A levels, NVQ3, BTEC National",34125
+E09000016,Havering,"Economically Inactive: Carer, Sick, Other",23639,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",68199
+E09000017,Hillingdon,Employed Part-time,40517,No Qualifications,43906
+E09000017,Hillingdon,Employed Full-time,102289,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",23872
+E09000017,Hillingdon,Unemployed,11632,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",28514
+E09000017,Hillingdon,Retired,37565,Apprenticeship,10298
+E09000017,Hillingdon,Student,17415,"Level 3 -Advanced -A levels, NVQ3, BTEC National",35836
+E09000017,Hillingdon,"Economically Inactive: Carer, Sick, Other",32461,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",99452
+E09000018,Hounslow,Employed Part-time,40315,No Qualifications,42630
+E09000018,Hounslow,Employed Full-time,98479,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",21674
+E09000018,Hounslow,Unemployed,11810,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",23390
+E09000018,Hounslow,Retired,29510,Apprenticeship,8090
+E09000018,Hounslow,Student,14360,"Level 3 -Advanced -A levels, NVQ3, BTEC National",28046
+E09000018,Hounslow,"Economically Inactive: Carer, Sick, Other",34201,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",104851
+E09000019,Islington,Employed Part-time,26896,No Qualifications,25257
+E09000019,Islington,Employed Full-time,88075,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",10273
+E09000019,Islington,Unemployed,9943,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",13146
+E09000019,Islington,Retired,16858,Apprenticeship,4212
+E09000019,Islington,Student,15859,"Level 3 -Advanced -A levels, NVQ3, BTEC National",22337
+E09000019,Islington,"Economically Inactive: Carer, Sick, Other",25996,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",108401
+E09000020,Kensington and Chelsea,Employed Part-time,17605,No Qualifications,13971
+E09000020,Kensington and Chelsea,Employed Full-time,51835,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",5446
+E09000020,Kensington and Chelsea,Unemployed,5632,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",8803
+E09000020,Kensington and Chelsea,Retired,16078,Apprenticeship,2378
+E09000020,Kensington and Chelsea,Student,12680,"Level 3 -Advanced -A levels, NVQ3, BTEC National",15439
+E09000020,Kensington and Chelsea,"Economically Inactive: Carer, Sick, Other",19259,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",77052
+E09000021,Kingston upon Thames,Employed Part-time,23635,No Qualifications,16128
+E09000021,Kingston upon Thames,Employed Full-time,60513,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",8744
+E09000021,Kingston upon Thames,Unemployed,5237,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",13319
+E09000021,Kingston upon Thames,Retired,21813,Apprenticeship,4324
+E09000021,Kingston upon Thames,Student,10088,"Level 3 -Advanced -A levels, NVQ3, BTEC National",19766
+E09000021,Kingston upon Thames,"Economically Inactive: Carer, Sick, Other",14181,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",73185
+E09000022,Lambeth,Employed Part-time,42623,No Qualifications,35185
+E09000022,Lambeth,Employed Full-time,140194,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",16252
+E09000022,Lambeth,Unemployed,14324,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",21025
+E09000022,Lambeth,Retired,22302,Apprenticeship,6973
+E09000022,Lambeth,Student,17750,"Level 3 -Advanced -A levels, NVQ3, BTEC National",31935
+E09000022,Lambeth,"Economically Inactive: Carer, Sick, Other",31749,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",157575
+E09000023,Lewisham,Employed Part-time,44175,No Qualifications,35447
+E09000023,Lewisham,Employed Full-time,111541,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",17738
+E09000023,Lewisham,Unemployed,13863,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",23426
+E09000023,Lewisham,Retired,25422,Apprenticeship,7261
+E09000023,Lewisham,Student,15810,"Level 3 -Advanced -A levels, NVQ3, BTEC National",31537
+E09000023,Lewisham,"Economically Inactive: Carer, Sick, Other",31606,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",127001
+E09000024,Merton,Employed Part-time,30296,No Qualifications,24609
+E09000024,Merton,Employed Full-time,81769,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",12368
+E09000024,Merton,Unemployed,6835,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",16510
+E09000024,Merton,Retired,24084,Apprenticeship,5752
+E09000024,Merton,"Other: Carer, Sick Ect.",9494,"Level 3 -Advanced -A levels, NVQ3, BTEC National",21786
+E09000024,Merton,"Economically Inactive: Carer, Sick, Other",20294,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",91746
+E09000025,Newham,Employed Part-time,52698,No Qualifications,57151
+E09000025,Newham,Employed Full-time,110747,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",24931
+E09000025,Newham,Unemployed,17294,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",28082
+E09000025,Newham,Retired,21237,Apprenticeship,8619
+E09000025,Newham,Student,24072,"Level 3 -Advanced -A levels, NVQ3, BTEC National",35783
+E09000025,Newham,"Economically Inactive: Carer, Sick, Other",50125,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",121608
+E09000026,Redbridge,Employed Part-time,44843,No Qualifications,41948
+E09000026,Redbridge,Employed Full-time,96787,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",20878
+E09000026,Redbridge,Unemployed,10836,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",27163
+E09000026,Redbridge,Retired,34086,Apprenticeship,7557
+E09000026,Redbridge,Student,18312,"Level 3 -Advanced -A levels, NVQ3, BTEC National",33074
+E09000026,Redbridge,"Economically Inactive: Carer, Sick, Other",37156,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",111397
+E09000027,Richmond upon Thames,Employed Part-time,25872,No Qualifications,14163
+E09000027,Richmond upon Thames,Employed Full-time,71694,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",7779
+E09000027,Richmond upon Thames,Unemployed,5255,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",14029
+E09000027,Richmond upon Thames,Retired,28245,Apprenticeship,3743
+E09000027,Richmond upon Thames,Student,9284,"Level 3 -Advanced -A levels, NVQ3, BTEC National",18830
+E09000027,Richmond upon Thames,"Economically Inactive: Carer, Sick, Other",15485,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",97290
+E09000028,Southwark,Employed Part-time,41970,No Qualifications,35516
+E09000028,Southwark,Employed Full-time,124981,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",15851
+E09000028,Southwark,Unemployed,14267,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",20135
+E09000028,Southwark,Retired,21910,Apprenticeship,6509
+E09000028,Southwark,Student,21545,"Level 3 -Advanced -A levels, NVQ3, BTEC National",31574
+E09000028,Southwark,"Economically Inactive: Carer, Sick, Other",31466,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",146551
+E09000029,Sutton,Employed Part-time,29205,No Qualifications,25122
+E09000029,Sutton,Employed Full-time,75021,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",15348
+E09000029,Sutton,Unemployed,5584,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",21432
+E09000029,Sutton,Retired,29291,Apprenticeship,7281
+E09000029,Sutton,Student,8198,"Level 3 -Advanced -A levels, NVQ3, BTEC National",25866
+E09000029,Sutton,"Economically Inactive: Carer, Sick, Other",18360,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",70608
+E09000030,Tower Hamlets,Employed Part-time,40834,No Qualifications,40999
+E09000030,Tower Hamlets,Employed Full-time,114556,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",17155
+E09000030,Tower Hamlets,Unemployed,15146,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",21433
+E09000030,Tower Hamlets,Retired,14714,Apprenticeship,5441
+E09000030,Tower Hamlets,Student,24195,"Level 3 -Advanced -A levels, NVQ3, BTEC National",33343
+E09000030,Tower Hamlets,"Economically Inactive: Carer, Sick, Other",43434,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",134512
+E09000031,Waltham Forest,Employed Part-time,40746,No Qualifications,40535
+E09000031,Waltham Forest,Employed Full-time,99628,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",18874
+E09000031,Waltham Forest,Unemployed,11461,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",23106
+E09000031,Waltham Forest,Retired,25673,Apprenticeship,7699
+E09000031,Waltham Forest,Student,13724,"Level 3 -Advanced -A levels, NVQ3, BTEC National",28770
+E09000031,Waltham Forest,"Economically Inactive: Carer, Sick, Other",30952,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",103198
+E09000032,Wandsworth,Employed Part-time,38647,No Qualifications,27202
+E09000032,Wandsworth,Employed Full-time,151794,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",12759
+E09000032,Wandsworth,Unemployed,10987,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",18895
+E09000032,Wandsworth,Retired,26906,Apprenticeship,5578
+E09000032,Wandsworth,Student,16228,"Level 3 -Advanced -A levels, NVQ3, BTEC National",31214
+E09000032,Wandsworth,"Economically Inactive: Carer, Sick, Other",28997,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",177910
+E09000033,Westminster,Employed Full-time,24638,No Qualifications,22882
+E09000033,Westminster,Employed Full-time,77107,"Level 1 -Basic/Entry -1Ð4 GCSEs (any grade), NVQ1, basic skills",8615
+E09000033,Westminster,Unemployed,8543,"Level 2 -Intermediate -5+ GCSEs (A*ÐC / 9Ð4), NVQ2, BTEC First",12181
+E09000033,Westminster,Retired,19329,Apprenticeship,3746
+E09000033,Westminster,Student,19662,"Level 3 -Advanced -A levels, NVQ3, BTEC National",22019
+E09000033,Westminster,"Economically Inactive: Carer, Sick, Other",28191,"Level 4+ -Higher/Professional -Degree, higher degree, NVQ4Ð5, professional or overseas equivalent",108024
